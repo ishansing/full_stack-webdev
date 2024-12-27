@@ -1,0 +1,2 @@
+- [ ] Prepare for course start on 11th Jan, 2025
+- [ ] 
