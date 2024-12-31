@@ -1,6 +1,7 @@
 
->Referring to [[Contents]] for course progress tracking.
+>Refer [[Contents]] for course progress tracking.
 
->Referring to [[Assignments]] for projects & practice tracking
+>Refer [[Assignments]] for projects & practice tracking
 
 ### Active [[TO-DO]] list 
+

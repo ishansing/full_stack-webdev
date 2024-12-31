@@ -1,4 +1,4 @@
-> Referring [[Assignments]] for project & practice
+> Refer [[Assignments]] for project & practice
 ## Phase 0: Web Warriors ⚔️
 
 **Objective:** Learn the building blocks of the web, how the internet works, and how the protocols make communication happen.

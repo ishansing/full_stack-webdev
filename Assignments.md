@@ -10,7 +10,7 @@
    - **Requirements:** Implement a navigation bar, hero section, product features section, and footer. Ensure responsiveness across desktop, tablet, and mobile.
    - **Skills Covered:** Flexbox, CSS Grid, media queries, and responsive design principles.
 
-## 3. Interactive Quiz Application
+### 3. Interactive Quiz Application
    - **Objective:** Build an interactive quiz with multiple-choice questions.
    - **Requirements:** Display a question with multiple answer choices and highlight correct/incorrect answers. Show the final score at the end.
    - **Skills Covered:** DOM manipulation, event handling, and basic JavaScript logic.
