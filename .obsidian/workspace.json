@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d191eda5ad0f2f9",
+        "id": "21a17b3df99d0896",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f7d20fd9e26dfe",
+            "id": "a391a00b7856d7b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Git_and_Github.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Git_and_Github"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,15 +158,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c51069a8fa265c0c",
+  "active": "a391a00b7856d7b1",
   "lastOpenFiles": [
+    "Progress_Log/TO-DO.md",
+    "Progress_Log/per_day_progress/2024-12-28.md",
+    "Progress_Log/Progress.md",
+    "Progress_Log/per_day_progress/2025-01-12.md",
+    "Progress_Log/per_day_progress/2025-01-11.md",
+    "Contents.md",
+    "Notes/Git_and_Github.pdf",
     "Notes",
     "Assignments.md",
-    "Contents.md",
-    "Progress_Log/Progress.md",
-    "Progress_Log/TO-DO.md",
     "Pasted image 20241228015312.png",
-    "Progress_Log/per_day_progress/2024-12-28.md",
     "Progress_Log/per_day_progress/Untitled.md",
     "Progress_Log/per_day_progress",
     "Pasted image 20241228012936.png",
