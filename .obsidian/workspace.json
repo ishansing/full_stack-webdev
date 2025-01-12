@@ -11,10 +11,14 @@
             "id": "a391a00b7856d7b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Progress_Log/Progress.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Progress"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "a391a00b7856d7b1",
   "lastOpenFiles": [
+    "Notes/01_http.pdf",
     "Progress_Log/TO-DO.md",
     "Progress_Log/per_day_progress/2024-12-28.md",
     "Progress_Log/Progress.md",
