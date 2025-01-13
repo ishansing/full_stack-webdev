@@ -1,2 +1,2 @@
 - [x] Prepare for course start on 11th Jan, 2025
-- [ ] 1st Assignment: Write an article on whatever learned in phase 0
+- [ ] 1st Assignment: Write an article on TCP/IP TLS/SSL : [[TCP-IP]]
