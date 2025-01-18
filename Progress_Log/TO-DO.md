@@ -1,2 +1,5 @@
 - [x] Prepare for course start on 11th Jan, 2025
 - [ ] 1st Assignment: Write an article on TCP/IP TLS/SSL : [[TCP-IP]]
+- [ ] Research about meta tags (UTF-8, View-port).
+- [ ] Write a PRD for Juice-Shop/Car-Wash/TO-DO/Salon website.
+- [ ] Complete all 12 HTML chapter assignments : *Refer Hitesh Sir's Canvas in [[Important Links]] 
