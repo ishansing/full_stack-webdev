@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfb0203de4ce64d",
+        "id": "fcfae5dd11a27f72",
         "type": "tabs",
         "children": [
           {
-            "id": "9e49ab109aaf0ba5",
+            "id": "11154036c21417f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress_Log/TO-DO.md",
+                "file": "Progress_Log/Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "Progress"
+            }
+          },
+          {
+            "id": "a4b012f3c4afa89b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +154,33 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "ca45d07a75217173",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9b436cb3cf50c153",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,16 +190,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e49ab109aaf0ba5",
+  "active": "a4b012f3c4afa89b",
   "lastOpenFiles": [
     "Progress_Log/Progress.md",
-    "Progress_Log/per_day_progress/2025-01-24.md",
-    "Progress_Log/per_day_progress/2025-01-18.md",
     "Progress_Log/TO-DO.md",
+    "Progress_Log/per_day_progress/2025-01-25.md",
+    "Progress_Log/per_day_progress/2025-01-24.md",
+    "Contents.md",
+    "PRDs/example-prd.md",
     "Important Links.md",
+    "PRDs",
+    "Progress_Log/per_day_progress/2025-01-18.md",
     "Code/HTML Practice/11-chapter.html",
     "Code/HTML Practice/10-chapter.html",
     "Code/HTML Practice/09-chapter.html",
@@ -178,10 +215,8 @@
     "Code/HTML Practice/05-chapter.html",
     "Code/HTML Practice/04-chapter.html",
     "Code/HTML Practice/03-chapter.html",
-    "Code/HTML Practice/02-chapter.html",
     "Assignments.md",
-    "Contents.md",
-    "Articles/TCP-IP.md",
+    "Articles & Blogs/TCP-IP.md",
     "Running Notes.md",
     "Progress_Log/per_day_progress/2024-12-28.md",
     "Progress_Log/per_day_progress/2025-01-12.md",
