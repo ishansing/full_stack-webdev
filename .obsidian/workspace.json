@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "TO-DO"
             }
+          },
+          {
+            "id": "23d4f7bd42ea0483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,12 +213,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4b012f3c4afa89b",
+  "active": "23d4f7bd42ea0483",
   "lastOpenFiles": [
+    "Progress_Log/TO-DO.md",
+    "conflict-files-obsidian-git.md",
+    "Code/crisp_clone/assets/logo.png",
+    "Code/crisp_clone/index.html",
+    "Code/crisp_clone/assets",
+    "Code/crisp_clone",
     "Important Links.md",
     "Contents.md",
     "Progress_Log/Progress.md",
-    "Progress_Log/TO-DO.md",
     "Progress_Log/per_day_progress/2025-01-25.md",
     "Progress_Log/per_day_progress/2025-01-24.md",
     "PRDs/example-prd.md",
@@ -216,9 +235,6 @@
     "Code/HTML Practice/08-chapter.html",
     "Code/HTML Practice/07-chapter.html",
     "Code/HTML Practice/06-chapter.html",
-    "Code/HTML Practice/05-chapter.html",
-    "Code/HTML Practice/04-chapter.html",
-    "Code/HTML Practice/03-chapter.html",
     "Assignments.md",
     "Articles & Blogs/TCP-IP.md",
     "Running Notes.md",
