@@ -11,14 +11,10 @@
             "id": "9e49ab109aaf0ba5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress_Log/TO-DO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TO-DO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,11 +160,12 @@
   },
   "active": "9e49ab109aaf0ba5",
   "lastOpenFiles": [
+    "Important Links.md",
+    "Notes/01_http.pdf",
+    "Progress_Log/TO-DO.md",
     "Progress_Log/Progress.md",
     "Progress_Log/per_day_progress/2025-01-24.md",
     "Progress_Log/per_day_progress/2025-01-18.md",
-    "Progress_Log/TO-DO.md",
-    "Important Links.md",
     "Code/HTML Practice/11-chapter.html",
     "Code/HTML Practice/10-chapter.html",
     "Code/HTML Practice/09-chapter.html",
@@ -178,7 +175,6 @@
     "Code/HTML Practice/05-chapter.html",
     "Code/HTML Practice/04-chapter.html",
     "Code/HTML Practice/03-chapter.html",
-    "Code/HTML Practice/02-chapter.html",
     "Assignments.md",
     "Contents.md",
     "Articles/TCP-IP.md",
