@@ -13,5 +13,8 @@
   Phase 1 *Continued*: 
 	CSS started. Basic CSS : Box model, Selectors, Specificity, Inline vs external CSS; Flexbox, Grid, Layout, Responsive design, Positioning of content. Explored different landing pages. *Logs : [[2025-01-25]] ; Notes : Refer CSS Grids Canvas in [[Important Links]].* 
 
+	Phase 1 *Completed*:
+	CSS basics completed; practical done; Remaining CSS concepts will be taken in future classes; CSS libraries explored (Bootstrap, Material CSS, TailwindCSS, etc.) *Logs : [[2025-01-26]] ; Assignments :[[Code/crisp_clone/index.html|Crisp_Clone]] ; Challenge : 1. [[Challenge-1.JPG]] , 2. [[Challenge-2.JPG]].*
+
 
 
