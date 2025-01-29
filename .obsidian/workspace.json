@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11154036c21417f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress_Log/TO-DO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TO-DO"
-            }
-          },
-          {
             "id": "de94c31c1f669c61",
             "type": "leaf",
             "state": {
@@ -91,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.00260543823242
+    "width": 200.00260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "827b0a4078fe3fd1",
@@ -198,17 +185,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11154036c21417f5",
+  "active": "de94c31c1f669c61",
   "lastOpenFiles": [
+    "Code/chai-aur-hero-section-fsd6ia2y/Challenge-1.JPG",
     "Progress_Log/Progress.md",
+    "Progress_Log/TO-DO.md",
     "Progress_Log/per_day_progress/2025-01-26.md",
     "Progress_Log/per_day_progress/2025-01-18.md",
     "Contents.md",
     "PRDs/example-prd.md",
     "Important Links.md",
-    "Code/chai-aur-hero-section-fsd6ia2y/Challenge-1.JPG",
     "Untitled.canvas",
-    "Progress_Log/TO-DO.md",
     "conflict-files-obsidian-git.md",
     "Code/crisp_clone/assets/logo.png",
     "Code/crisp_clone/index.html",
