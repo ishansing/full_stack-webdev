@@ -3,32 +3,81 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Crisp-Clone</title>
+    <title>Crisp Clone</title>
+    <link rel="stylesheet" href="styles.css" />
   </head>
-  <style>
-    .nav-bar {
-      display: flex;
-    }
-  </style>
   <body>
-    <nav class="nav-bar">
-      <div class="nav-left">
-        <a href="#"><img src="./assets/logo.png" alt="Crisp-Clone Logo" /></a>
+    <header>
+      <nav>
+        <div class="logo">
+          <img src="/assets/logo.png" alt="Crisp Logo" />
+        </div>
+        <div class="nav-links">
+          <a href="#" class="active">Product</a>
+          <a href="#">Pricing</a>
+          <a href="#">Resources</a>
+          <a href="#">Blog</a>
+        </div>
+        <div class="nav-buttons">
+          <a href="#" class="login">Log in</a>
+          <a href="#" class="signup">Get Crisp Free</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <h1>The messaging app for your business growth</h1>
+        <p>Focus on building customer relationships. We'll handle the rest.</p>
+        <div class="cta-buttons">
+          <a href="#" class="primary-btn">Get Crisp Free</a>
+          <a href="#" class="secondary-btn">See pricing</a>
+        </div>
+        <div class="hero-image">
+          <img
+            src="https://crisp.chat/img/home/banner-light.jpg"
+            alt="Crisp Dashboard"
+          />
+        </div>
+      </section>
+
+      <section class="features">
+        <div class="feature-card">
+          <h3>Chat with visitors</h3>
+          <p>Connect with website visitors in real-time</p>
+        </div>
+        <div class="feature-card">
+          <h3>Shared Inbox</h3>
+          <p>Manage all conversations in one place</p>
+        </div>
+        <div class="feature-card">
+          <h3>Chatbot</h3>
+          <p>Automate customer support</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <div class="footer-section">
+          <h4>Product</h4>
+          <a href="#">Features</a>
+          <a href="#">Pricing</a>
+          <a href="#">Security</a>
+        </div>
+        <div class="footer-section">
+          <h4>Resources</h4>
+          <a href="#">Help Center</a>
+          <a href="#">Blog</a>
+          <a href="#">Status</a>
+        </div>
+        <div class="footer-section">
+          <h4>Company</h4>
+          <a href="#">About</a>
+          <a href="#">Careers</a>
+          <a href="#">Contact</a>
+        </div>
       </div>
-      <div class="nav-center">
-        <a href="#">Features</a>
-        <a href="#">Apps</a>
-        <a href="#">Pricing</a>
-        <a href="#">Integrations</a>
-        <a href="#">Help</a>
-      </div>
-      <div class="nav-right">
-        <form>
-          <input type="text" placeholder="Search Our Website" />
-        </form>
-        <button type="button">Log In</button>
-        <button type="button">Get Started</button>
-      </div>
-    </nav>
+    </footer>
   </body>
 </html>
