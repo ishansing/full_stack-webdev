@@ -12,6 +12,9 @@
 }
 
 body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, sans-serif;
+  /* line-height: 1.6; */
 }
 
 .hero {
@@ -35,7 +38,7 @@ body {
 .input-wrapper {
 }
 
-input[type='text'] {
+input[type="text"] {
 }
 
 .demo-button {
@@ -78,7 +81,7 @@ input[type='text'] {
   .input-wrapper {
   }
 
-  input[type='text'] {
+  input[type="text"] {
   }
 }
 
@@ -114,6 +117,16 @@ input[type='text'] {
 }
 
 .dark-mode-toggle {
+  display: flex;
+  align-items: right;
+  font-size: 17px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #3b82f6;
+  text-decoration: none;
+  border: none;
 }
 
 .dark-mode-toggle:hover {
@@ -123,13 +136,15 @@ body.dark {
 }
 
 .dark-mode-toggle {
+  display: flex;
+  align-items: right;
 }
 
 .dark-mode-toggle:hover {
 }
 
-input[type='text'].dark {
+input[type="text"].dark {
 }
 
-input[type='text']::placeholder {
+input[type="text"]::placeholder {
 }
