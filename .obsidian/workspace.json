@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress_Log/Progress.md",
+                "file": "Progress_Log/TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progress"
-            }
-          },
-          {
-            "id": "4d8d2e03bb02cc40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "TO-DO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.00260543823242,
-    "collapsed": true
+    "width": 200.00260543823242
   },
   "right": {
     "id": "827b0a4078fe3fd1",
@@ -198,10 +185,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d8d2e03bb02cc40",
+  "active": "de94c31c1f669c61",
   "lastOpenFiles": [
-    "Code/chai-aur-hero-section-fsd6ia2y/Challenge-1.JPG",
     "Progress_Log/Progress.md",
+    "Code/chai-aur-hero-section-fsd6ia2y/Challenge-1.JPG",
     "Progress_Log/TO-DO.md",
     "Progress_Log/per_day_progress/2025-01-26.md",
     "Progress_Log/per_day_progress/2025-01-18.md",

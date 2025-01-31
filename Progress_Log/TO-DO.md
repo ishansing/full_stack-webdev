@@ -3,5 +3,5 @@
 - [x] Research about meta tags (UTF-8, View-port).
 - [ ] Write a PRD for Juice-Shop/Car-Wash/TO-DO/Salon website.
 - [x] Complete all 12 HTML chapter assignments : *Refer Hitesh Sir's Canvas in [[Important Links]] 
-- [ ] CSS challenges in cohort page. 
-- [ ] Landing page clone : https://crisp.chat/en/ ; https://skiplabs.io/ .
+- [x] CSS challenges in cohort page. 
+- [x] Landing page clone : https://crisp.chat/en/ ; https://skiplabs.io/ .
