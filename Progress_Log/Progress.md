@@ -16,5 +16,10 @@
 	Phase 1 *Completed*:
 	CSS basics completed; practical done; Remaining CSS concepts will be taken in future classes; CSS libraries explored (Bootstrap, Material CSS, TailwindCSS, etc.) *Logs : [[2025-01-26]] ; Assignments :[[Code/crisp_clone/index.html|Crisp_Clone]] ; Challenge : 1. [[Challenge-1.JPG]] , 2. [[Challenge-2.JPG]].*
 
+- Phase 2 *Started*:
+	JavaScript started. Nodejs installation, Factory analogy for JavaScript,
+	some basic challenges done. *Logs : [[2025-02-01]]; Code : [[hello.js]];
+	Challenge : On cohort website ([Cohort](https://courses.chaicode.com/learn/batch/Web-Dev-Cohort))
+
 
 
