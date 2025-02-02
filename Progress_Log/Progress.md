@@ -20,6 +20,6 @@
 	JavaScript started. Nodejs installation, Factory analogy for JavaScript,
 	some basic challenges done. *Logs : [[2025-02-01]]; Code : [[hello.js]];
 	Challenge : On cohort website ([Cohort](https://courses.chaicode.com/learn/batch/Web-Dev-Cohort))
-
-
-
+	
+	Variables, Data Types, Operators, Conditionals. *Logs : [[2025-02-02]]; 
+	Code : [[bootcampProfile.js]], [[outfit.js]], [[pizza.js]], [[gradeCalc.js]], [[array.js]], [[loops.js]], [[sum.js]]; Notes : Refer CSS Grids Canvas in [[Important Links]].*
