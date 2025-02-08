@@ -1,5 +1,6 @@
 - [Canvas: Hitesh Sir](https://app.eraser.io/workspace/aqaTC9ma4qmZ9CDuSriU)
 - [Canvas: CSS Grids](https://app.eraser.io/workspace/pjz1SKuhQJ43kxOr63Hr)
+- [Canvas: Objects in JS](https://app.eraser.io/workspace/3gds03KkAON32PoR5Hsb)
 - [Cohort](https://courses.chaicode.com/learn/batch/Web-Dev-Cohort)
 
 ## Online Resources/Docs

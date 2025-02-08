@@ -5,3 +5,5 @@
 - [x] Complete all 12 HTML chapter assignments : *Refer Hitesh Sir's Canvas in [[Important Links]] 
 - [x] CSS challenges in cohort page. 
 - [x] Landing page clone : https://crisp.chat/en/ ; https://skiplabs.io/ .
+- [ ] JS Challenges.
+- [ ] Research about objects in JS.

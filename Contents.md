@@ -62,7 +62,7 @@
 **Objective:** Learn the foundations of web design by mastering HTML and CSS, creating the structure and styling that powers the web.
 
 ### 1. HTML Basics – The Web’s Skeleton
-- Introduction to HTML (HyperText Markup Language) and its role in web development
+- Introduction to HTML (Hypertext Markup Language) and its role in web development
 - Understanding HTML tags and elements
 - Building a simple webpage using HTML: `html`, `head`, `body`, `header`, `footer`
 - Working with text elements: `h1`, `p`, `a`, `ul`, `ol`, `li`
