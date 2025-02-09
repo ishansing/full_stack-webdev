@@ -24,5 +24,8 @@
 	Variables, Data Types, Operators, Conditionals. *Logs : [[2025-02-02]]; 
 	Code : [[bootcampProfile.js]], [[outfit.js]], [[pizza.js]], [[gradeCalc.js]], [[array.js]], [[loops.js]], [[sum.js]]; Notes : Refer CSS Grids Canvas in [[Important Links]].*  
 	
-	Code Challenges. Understanding objects: properties, methods, and prototypes. Accessing and modifying object properties. *Logs : [[2025-02-08]]; Code : [[longest_tea.js]]; Refer Object Canvas in [[Important Links]].*
+	Code Challenges. Understanding objects: properties, methods, and prototypes. Accessing and modifying object properties. *Logs : [[2025-02-08]]; Code : [[longest_tea.js]] ; Refer Object Canvas in [[Important Links]].*
+	
+	objects and methods challenges. Prototypes in JS, Polyfills, Creating our own Polyfills e.g. .map, .filter, etc. *Logs : [[2025-02-09]] ; 
+	Code : [[polyfills.js]] ; Refer Polyfills Canvas in [[Important Links]].*
 

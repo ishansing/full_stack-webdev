@@ -15,5 +15,5 @@ if (!Array.prototype.myFilter) {
 
 const arr = [1, 2, 3, 4, 5, 6];
 
-const ar = arr.myFilter((e) => e % 2);
+const ar = arr.myFilter((e) => e % 2); // Returns the Array arr filtered (even numbers integers)
 console.log(ar);
