@@ -1,9 +1,12 @@
 - [x] Prepare for course start on 11th Jan, 2025
-- [ ] 1st Assignment: Write an article on TCP/IP TLS/SSL : [[TCP-IP]]
+- [ ] 1st Assignment: Write an article on TCP/IP TLS/SSL.
 - [x] Research about meta tags (UTF-8, View-port).
 - [ ] Write a PRD for Juice-Shop/Car-Wash/TO-DO/Salon website.
 - [x] Complete all 12 HTML chapter assignments : *Refer Hitesh Sir's Canvas in [[Important Links]] 
 - [x] CSS challenges in cohort page. 
 - [x] Landing page clone : https://crisp.chat/en/ ; https://skiplabs.io/ .
 - [ ] JS Challenges.
-- [ ] Research about objects in JS.
+- [x] Research about objects in JS.
+- [ ] Research on day [[2025-02-15]] & [[2025-02-09]]. To master the concepts read and write an articles.
+- [ ] ==Serious Blog== :- *Prototype* -> Be professional, Use proper code snippets and diagrams, Must add value to the reader.
+- [ ] New Challenges for this week : [[2025-02-15]]
