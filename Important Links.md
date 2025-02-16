@@ -3,6 +3,7 @@
 - [Canvas: Objects in JS](https://app.eraser.io/workspace/3gds03KkAON32PoR5Hsb)
 - [Canvas: Polyfills](https://app.eraser.io/workspace/fvOzneJ3s0olaYoetMru)
 - [Canvas: Class - objects](https://app.eraser.io/workspace/MSKrHtmZxpvUgZqn5qGq)
+- [Canvas: DOM](https://app.eraser.io/workspace/20MylkilyXmyt9Xq7W3B)
 - [Cohort](https://courses.chaicode.com/learn/batch/Web-Dev-Cohort)
 
 ## Online Resources/Docs

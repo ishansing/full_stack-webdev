@@ -10,3 +10,6 @@
 - [ ] Research on day [[2025-02-15]] & [[2025-02-09]]. To master the concepts read and write an articles.
 - [ ] ==Serious Blog== :- *Prototype* -> Be professional, Use proper code snippets and diagrams, Must add value to the reader.
 - [ ] New Challenges for this week : [[2025-02-15]]
+- [ ] ==Calculator App.==
+- [ ] ==BMI Index Calculator App.==
+- [ ] ==Review App.==

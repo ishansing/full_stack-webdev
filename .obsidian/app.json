@@ -1,5 +1,5 @@
 {
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "showLineNumber": false
+  "showLineNumber": true
 }

@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
-  "baseFontSize": 15
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Brass Mono,JetBrains Mono",
+  "textFontFamily": "Brass Mono Code,JetBrains Mono",
+  "monospaceFontFamily": "Brass Mono Code,JetBrainsMonoNL Nerd Font",
+  "baseFontSize": 17,
+  "accentColor": "#fece7c"
 }
