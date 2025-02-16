@@ -11,14 +11,17 @@
             "id": "b7e1bc0a81fa13fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Progress_Log/Progress.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas For Ideation/Brainstorm.canvas",
+                "viewState": {
+                  "x": -134.1920166015625,
+                  "y": -178.00982666015625,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Progress"
+              "icon": "lucide-layout-dashboard",
+              "title": "Brainstorm"
             }
           }
         ]
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "827b0a4078fe3fd1",
@@ -142,16 +144,17 @@
   },
   "active": "9b436cb3cf50c153",
   "lastOpenFiles": [
+    "Canvas For Ideation",
+    "Diagrams/Todo-design.excalidraw.md",
+    "Canvas For Ideation/Brainstorm.canvas",
+    "Progress_Log/Progress.md",
     "Progress_Log/per_day_progress/2025-02-09.md",
     "Progress_Log/per_day_progress/2025-02-16.md",
     "Progress_Log/per_day_progress/2025-02-15.md",
-    "Progress_Log/Progress.md",
     "2025-02-16.md",
-    "Untitled.canvas",
     "Contents.md",
     "Important Links.md",
     "Progress_Log/TO-DO.md",
-    "Diagrams/Todo-design.excalidraw.md",
     "Code/Javascript/TODO/script.js",
     "Code/Javascript/TODO/index.html",
     "Code/Javascript/TODO",
@@ -182,7 +185,6 @@
     "Pasted image 20241228015312.png",
     "Progress_Log/per_day_progress/Untitled.md",
     "Pasted image 20241228012936.png",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
