@@ -8,20 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7e1bc0a81fa13fa",
+            "id": "242ae1c44a3fc58d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Canvas For Ideation/Brainstorm.canvas",
-                "viewState": {
-                  "x": -134.1920166015625,
-                  "y": -178.00982666015625,
-                  "zoom": 0
-                }
+                "file": "Diagrams/Calculator-design.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Brainstorm"
+              "icon": "excalidraw-icon",
+              "title": "Calculator-design.excalidraw"
             }
           }
         ]
@@ -81,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "827b0a4078fe3fd1",
@@ -102,6 +98,69 @@
               "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "fe578f3cd3288c39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Calculator-design.excalidraw"
+            }
+          },
+          {
+            "id": "22f8b4531264e2cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Calculator-design.excalidraw"
+            }
+          },
+          {
+            "id": "721751b71d922214",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6de77e5d0e84e45c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Calculator-design.excalidraw"
             }
           }
         ]
@@ -142,11 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b436cb3cf50c153",
+  "active": "242ae1c44a3fc58d",
   "lastOpenFiles": [
+    "Canvas For Ideation/Brainstorm.canvas",
+    "Diagrams/Calculator-design.excalidraw.md",
+    "Excalidraw",
     "Canvas For Ideation",
     "Diagrams/Todo-design.excalidraw.md",
-    "Canvas For Ideation/Brainstorm.canvas",
     "Progress_Log/Progress.md",
     "Progress_Log/per_day_progress/2025-02-09.md",
     "Progress_Log/per_day_progress/2025-02-16.md",
@@ -158,13 +219,11 @@
     "Code/Javascript/TODO/script.js",
     "Code/Javascript/TODO/index.html",
     "Code/Javascript/TODO",
-    "Excalidraw",
     "Diagrams",
     "Code/Javascript/DOM-01/index.js",
     "Code/Javascript/DOM-01/index.html",
     "Code/Javascript/DOM-01",
     "Code/Javascript/DOM/index.html",
-    "Code/Javascript/DOM",
     "Assignments.md",
     "Running Notes.md",
     "Articles & Blogs/TCP-IP.md",
@@ -183,7 +242,6 @@
     "Progress_Log/per_day_progress/2025-01-12.md",
     "Progress_Log/per_day_progress/2025-01-11.md",
     "Pasted image 20241228015312.png",
-    "Progress_Log/per_day_progress/Untitled.md",
     "Pasted image 20241228012936.png",
     "Untitled 1.canvas"
   ]
