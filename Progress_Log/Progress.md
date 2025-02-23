@@ -30,4 +30,7 @@
 	ES6 classes, Class-objects, DRY, Constructors, Prototype chaining, Syntactical Sugar, extending prototype, Ambiguity Error, Arrow function.
 	*Logs : [[2025-02-15]] ; Code : [[class-objects.js]] ; Refer Class Objects Canvas in [[Important Links]].*
 	
-	DOM Manipulation, Querying elements, Modifying styles and content. *Logs : [[2025-02-16]] ; *Code : DOM - [[index.js]], [[Code/Javascript/DOM-01/index.html|index.html]], TODO - [[Code/Javascript/TODO/index.html|index]], [[Code/Javascript/TODO/script.js|script]] ; Refer DOM Canvas in [[Important Links]].*
+	DOM Manipulation, Querying elements, Modifying styles and content. *Logs : [[2025-02-16]] ; Code : DOM - [[index.js]], [[Code/Javascript/DOM-01/index.html|index.html]], TODO - [[Code/Javascript/TODO/index.html|index]], [[Code/Javascript/TODO/script.js|script]] ; Refer DOM Canvas in [[Important Links]].*
+	
+	JS revision, Call stack, Event loop, Task queue / Micro task queue, Execution context, Promises, Starvation, HLD & TLD, Memory & Code Phase, Hoisting, TDZ. *Logs : [[2025-02-23]] ; Code :  ; Refer JS in depth Canvas in [[Important Links]].*
+	

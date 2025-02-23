@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9e90ffad37a683ce",
+        "id": "fd17d6d54d5fbd75",
         "type": "tabs",
         "children": [
           {
-            "id": "242ae1c44a3fc58d",
+            "id": "956186645379006d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/Calculator-design.excalidraw.md"
+                "file": "Progress_Log/per_day_progress/2025-02-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Calculator-design.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-02-23"
+            }
+          },
+          {
+            "id": "60f6376a91b435a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress_Log/Progress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Progress"
             }
           }
         ]
@@ -76,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "827b0a4078fe3fd1",
@@ -86,7 +101,7 @@
       {
         "id": "d70f996cce730c96",
         "type": "tabs",
-        "dimension": 53.29268292682927,
+        "dimension": 59.84427141268076,
         "children": [
           {
             "id": "9b436cb3cf50c153",
@@ -101,12 +116,12 @@
             }
           },
           {
-            "id": "fe578f3cd3288c39",
+            "id": "d840524f8465d09e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "file": "Progress_Log/per_day_progress/2025-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +131,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calculator-design.excalidraw"
+              "title": "Backlinks for 2025-02-23"
             }
           },
           {
-            "id": "22f8b4531264e2cd",
+            "id": "30c24bb2a1806e72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "file": "Progress_Log/per_day_progress/2025-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Calculator-design.excalidraw"
+              "title": "Outgoing links from 2025-02-23"
             }
           },
           {
-            "id": "721751b71d922214",
+            "id": "0c3974e1aa2108ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,18 +164,18 @@
             }
           },
           {
-            "id": "6de77e5d0e84e45c",
+            "id": "f406d54ce63ba84b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/Calculator-design.excalidraw.md",
+                "file": "Progress_Log/per_day_progress/2025-02-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculator-design.excalidraw"
+              "title": "Outline of 2025-02-23"
             }
           }
         ]
@@ -168,7 +183,7 @@
       {
         "id": "83bbe64d5e2429e2",
         "type": "tabs",
-        "dimension": 46.707317073170735,
+        "dimension": 40.155728587319246,
         "children": [
           {
             "id": "360cf22b1e8a3ccb",
@@ -186,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,21 +216,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "242ae1c44a3fc58d",
+  "active": "956186645379006d",
   "lastOpenFiles": [
-    "Canvas For Ideation/Brainstorm.canvas",
+    "Progress_Log/Progress.md",
+    "Progress_Log/TO-DO.md",
+    "Progress_Log/per_day_progress/2025-02-23.md",
+    "Important Links.md",
+    "Contents.md",
     "Diagrams/Calculator-design.excalidraw.md",
+    "Canvas For Ideation/Brainstorm.canvas",
     "Excalidraw",
     "Canvas For Ideation",
     "Diagrams/Todo-design.excalidraw.md",
-    "Progress_Log/Progress.md",
     "Progress_Log/per_day_progress/2025-02-09.md",
     "Progress_Log/per_day_progress/2025-02-16.md",
     "Progress_Log/per_day_progress/2025-02-15.md",
     "2025-02-16.md",
-    "Contents.md",
-    "Important Links.md",
-    "Progress_Log/TO-DO.md",
     "Code/Javascript/TODO/script.js",
     "Code/Javascript/TODO/index.html",
     "Code/Javascript/TODO",
