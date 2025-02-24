@@ -34,3 +34,5 @@
 	
 	JS revision, Call stack, Event loop, Task queue / Micro task queue, Execution context, Promises, Starvation, HLD & TLD, Memory & Code Phase, Hoisting, TDZ. *Logs : [[2025-02-23]] ; Code :  ; Refer JS in depth Canvas in [[Important Links]].*
 	
+	Proxy, clock project, Promises in depth, States of promises, Promise Chaining. *Logs : [[2025-02-24]] ; Code : [[Code/Mini Projects/01-proj-speed/script.js|clock-script.js]],  ; Refer Promises Canvas in [[Important Links]].*
+	
