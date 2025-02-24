@@ -32,7 +32,7 @@
 	
 	DOM Manipulation, Querying elements, Modifying styles and content. *Logs : [[2025-02-16]] ; Code : DOM - [[index.js]], [[Code/Javascript/DOM-01/index.html|index.html]], TODO - [[Code/Javascript/TODO/index.html|index]], [[Code/Javascript/TODO/script.js|script]] ; Refer DOM Canvas in [[Important Links]].*
 	
-	JS revision, Call stack, Event loop, Task queue / Micro task queue, Execution context, Promises, Starvation, HLD & TLD, Memory & Code Phase, Hoisting, TDZ. *Logs : [[2025-02-23]] ; Code :  ; Refer JS in depth Canvas in [[Important Links]].*
+	JS revision, Call stack, Event loop, Task queue / Micro task queue, Execution context, Promises, Starvation, HLD & TLD, Memory & Code Phase, Hoisting, TDZ. *Logs : [[2025-02-23]] ; Code :  [[04_iteration 1.js]], [[05_functions.js]]; Refer JS in depth Canvas in [[Important Links]].*
 	
-	Proxy, clock project, Promises in depth, States of promises, Promise Chaining. *Logs : [[2025-02-24]] ; Code : [[Code/Mini Projects/01-proj-speed/script.js|clock-script.js]],  ; Refer Promises Canvas in [[Important Links]].*
+	Proxy, Negative Indexing, clock project, Promises in depth, States of promises, Promise Chaining. *Logs : [[2025-02-24]] ; Code : [[Code/Mini Projects/Clock/script.js|clock-script.js]],  [[negativeIndex.js]] ; Refer Promises Canvas in [[Important Links]].*
 	
