@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
+    "width": 275.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -201,7 +201,11 @@
   },
   "active": "d2e67ab3c5867d11",
   "lastOpenFiles": [
+    "Progress_Log/per_day_progress/2025-02-25.md",
+    "Important Links.md",
     "Progress_Log/Progress.md",
+    "Code/speed.js/sync_async.js",
+    "Progress_Log/TO-DO.md",
     "Progress_Log/per_day_progress/2025-02-24.md",
     "Code/speed.js/negativeIndex.js",
     "Code/Mini Projects/Clock/hitesh_sir_ref/01_proj/start/style.css",
@@ -212,10 +216,7 @@
     "Code/Mini Projects/Clock/hitesh_sir_ref/01_proj/finished/index.html",
     "Code/Mini Projects/Clock/hitesh_sir_ref/start/style.css",
     "Code/Mini Projects/Clock/hitesh_sir_ref/start/script.js",
-    "Code/Mini Projects/Clock/hitesh_sir_ref/start/index.html",
-    "Important Links.md",
     "Progress_Log/per_day_progress/2025-02-23.md",
-    "Progress_Log/TO-DO.md",
     "Contents.md",
     "Diagrams/Calculator-design.excalidraw.md",
     "Canvas For Ideation/Brainstorm.canvas",
@@ -238,7 +239,6 @@
     "Code/crisp_clone/assets/logo.png",
     "Progress_Log/per_day_progress/2025-01-25.md",
     "Progress_Log/per_day_progress/2025-01-24.md",
-    "Progress_Log/per_day_progress/2024-12-28.md",
     "Pasted image 20241228015312.png",
     "Pasted image 20241228012936.png",
     "Untitled 1.canvas"

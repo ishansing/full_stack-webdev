@@ -7,6 +7,7 @@
 - [Canvas: DOM](https://app.eraser.io/workspace/20MylkilyXmyt9Xq7W3B)
 - [Canvas : JS in depth](https://app.eraser.io/workspace/tDSQohysDkk7i9cioQGX)
 - [Canvas : Promises](https://app.eraser.io/workspace/lzmyfFQS1GM75NmeJoE9?origin=share)
+- [Canvas : Sync/Async](https://app.eraser.io/workspace/5fIzIIm6bQSdotX21BTw?origin=share)
 - [Cohort](https://courses.chaicode.com/learn/batch/Web-Dev-Cohort)
 
 ## Online Resources/Docs
@@ -14,4 +15,3 @@
 - [JavaScript](https://javascript.info)
 - [JS Visualizer](https://www.jsv9000.app/)
 - [Free API](https://freeapi.app/)
-- 

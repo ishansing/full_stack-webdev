@@ -36,3 +36,5 @@
 	
 	Proxy, Negative Indexing, clock project, Promises in depth, States of promises, Promise Chaining. *Logs : [[2025-02-24]] ; Code : [[Code/Mini Projects/Clock/script.js|clock-script.js]],  [[negativeIndex.js]] ; Refer Promises Canvas in [[Important Links]].*
 	
+	More Promises Code, Sync & Async code, Callback func, Callback Hell, Custom Promises, Promisification, Async-Await. *Logs : [[2025-02-25]] ; Code : [[sync_async.js]] ; Refer Sync/Async Canvas in [[Important Links]].*
+	

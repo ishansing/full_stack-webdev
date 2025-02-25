@@ -41,7 +41,7 @@ function negativeIndex(arr) {
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-let newArr = negativeIndex(arr);
+let newArr = negativeIndex([...arr]);
 
 console.log(arr[-1]);
 console.log(newArr[-1]);
